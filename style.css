@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: courier;
+}
+canvas {
+  display: block;
+  top: 0px;
+}
+#descrip {
+  position: absolute;
+  top: 600px;
+  padding: 10px;
+}
