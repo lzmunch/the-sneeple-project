@@ -1,2 +1,2 @@
 # The Sneeple Project
-Creates little flashing snake people
+Creates little flashing snake people.
